@@ -1,0 +1,14 @@
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\BL.dll.config
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\BL.dll
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\BL.pdb
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\DAL.dll
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\EN.dll
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\DAL.pdb
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\DAL.dll.config
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\EN.pdb
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\bin\Debug\EN.dll.config
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\obj\Debug\BL.dll
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\BL\obj\Debug\BL.pdb

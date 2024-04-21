@@ -1,0 +1,2 @@
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\ServiviciosLibreria\obj\Debug\ServiviciosLibreria.csproj.AssemblyReference.cache
+C:\Users\eduar\OneDrive\Escritorio\servicios libreria\ServiviciosLibreria\obj\Debug\ServiviciosLibreria.csproj.CoreCompileInputs.cache
